@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Wes Bos 10-20"
+date:   2020-11-30
+---
+
+<div class="content">
+    <h3>11 - Types - Booleans and Equality.mp4</h3>
+    <iframe src="https://drive.google.com/file/d/1VCwqvnE-h9Cg0AyQOF3hYQfqPmCz15cH/preview" width="640" height="360"></iframe>
+    <h3>12 - Functions - Built in.mp4</h3>
+    <iframe src="https://drive.google.com/file/d/1yBxH8lujM60k8ykzxove8hI3wHulSuq9/preview" width="640" height="360"></iframe>
+    <h3>13 - Functions - Custom.mp4</h3>
+    <iframe src="https://drive.google.com/file/d/1XDABCAuPp2CUlTGAsvabNjRE0_Jg9gp5/preview" width="640" height="360"></iframe>
+    <h3>14 - Functions - Parameters and Arguments.mp4</h3>
+    <iframe src="https://drive.google.com/file/d/1FyGDFNRamItI61jkKOa1cjO82Q13dAQH/preview" width="640" height="360"></iframe>
+    <h3>15 - Different Ways to Declare Functions.mp4</h3>
+    <iframe src="https://drive.google.com/file/d/14GTjCEs9lUQ8nzJDB012fz8jap567-ez/preview" width="640" height="360"></iframe>
+    <h3>16 - Debugging Tools.mp4</h3>
+    <iframe src="https://drive.google.com/file/d/140uCs_eHh_it2wbgdI8fDSNaJhFJlQe7/preview" width="640" height="360"></iframe>
+    <h3>17 - Scope.mp4</h3>
+    <iframe src="https://drive.google.com/file/d/1FjyMi32blcbzYuTRYuxCiv5n3UnwX2gi/preview" width="640" height="360"></iframe>
+    <h3>18 - Hoisting.mp4</h3>
+    <iframe src="https://drive.google.com/file/d/1xNWU2FKRbvQU5b70ImZC8jL3qq6aYMQp/preview" width="640" height="360"></iframe>
+    <h3>19 - Closures.mp4</h3>
+    <iframe src="https://drive.google.com/file/d/1lOSRSOllISvAIbGsTZW9T1S3vtwrHr7q/preview" width="640" height="360"></iframe>
+    <h3>20 - The DOM - Introduction to the document.mp4</h3>
+    <iframe src="https://drive.google.com/file/d/1qpAZusMFvyd4RrQDFLgAOaat2Cbrcl8d/preview" width="640" height="360"></iframe>
+</div>
