@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Wes Bos 60-70"
+date:   2020-11-25
+---
+
+<div class="content">
+
+  <h3>61 - The this Keyword.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1ZLlUIgHAQ5cDsqhu9Pp6Uc4b4Y59d6IP/preview" width="640" height="360"></iframe>
+  <h3>62 - Prototype Refactor of the Gallery Exercise.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/10sTjJjQt1J38FEAXkrekDgUut00vuYWZ/preview" width="640" height="360"></iframe>
+  <h3>63 - Prototypes and Prototypal Inheritance.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1bj-HvJ5nijR4eWNX1hIOwdrLLDndCsPl/preview" width="640" height="360"></iframe>
+  <h3>64 - Prototype Refactor of the Slider Exercise.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1DvAgMSP_Auz16gKxccF0PKIhgxKVcbtW/preview" width="640" height="360"></iframe>
+  <h3>65 - bind, call and apply.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1YGBdgJiEWxLoZ2c5w3igUU5Y6kKr9I7D/preview" width="640" height="360"></iframe>
+  <h3>66 - The Event Loop and Callback Hell.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1iTcKIYz33gfkBxVt6JjPCFjU85MxtJB3/preview" width="640" height="360"></iframe>
+  <h3>67 - Promises.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1RC8FRvX719qqOCJ7iYParbRJG_y4t-gH/preview" width="640" height="360"></iframe>
+  <h3>68 - Promises - Error Handling.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1lEoYqTAeDLH7gVJmXf3DOPGRXkIgX3KS/preview" width="640" height="360"></iframe>
+  <h3>69 - Refactoring Callback Hell to Promise Land.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1LuF1_8lbw8DLrtaFhAcmo9MBvG4548Gs/preview" width="640" height="360"></iframe>
+  <h3>70 - Async Await.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1ZQUPKsX0cYxyEVhOUgALEfS2S7pujtSe/preview" width="640" height="360"></iframe>
+</div>
