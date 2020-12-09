@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Wes Bos 80-85"
+date:   2020-11-23
+---
+
+<div class="content">
+
+  <h3>81 - Bundling and Building with Parcel.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1Osh1F3Boz_KKyPrAOqDzRH7GkJICgc81/preview" width="640" height="360"></iframe>
+  <h3>82 - using open source npm packages.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/19Q7HFVPy6HoRl1sgE5y2XxPr8WRcJ1xF/preview" width="640" height="360"></iframe>
+  <h3>83 - Security.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1evj7jKe43CoakMt6kufb-CHg--Cj-O_y/preview" width="640" height="360"></iframe>
+  <h3>84 - Web Speech Colours Game.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1_f31N18_MN_tuwsvvqqkTb-VlgRefPLZ/preview" width="640" height="360"></iframe>
+  <h3>85 - Audio Visualization.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/19cLHLkfLq6Iy-8WwL1tKy9kQJxYjOc88/preview" width="640" height="360"></iframe>
+
+</div>
