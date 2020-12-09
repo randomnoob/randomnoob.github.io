@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Wes Bos 50-60"
+date:   2020-11-26
+---
+
+<div class="content">
+  <h3>51 - Looping and Iterating - Filter, Find and Higher Order Functions.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1EN3OJDILPQGT-YFQ1m1ZbFhzjwXkx0tT/preview" width="640" height="360"></iframe>
+  <h3>52 - Looping and Iterating - Reduce.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1mGz-i3X3xikfcl09bQ_bBzpVbgMHEMqY/preview" width="640" height="360"></iframe>
+  <h3>53 - Looping and Iterating - Reduce Exercise.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1fZlj14FXkDvUpQuV2odRWF0CmNszPWYu/preview" width="640" height="360"></iframe>
+  <h3>54 - Looping and Iterating - for, for in, for of and while Loops.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1pmQTvKwDyISnxd9U7CJennYHI8yHWbhT/preview" width="640" height="360"></iframe>
+  <h3>55 - Face Detection and Censorship.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1sUJRkRQKyzzv9zlQhveN-WfA3grN7G3N/preview" width="640" height="360"></iframe>
+  <h3>56 - Sarcastic Text Generator.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1XsjieKrkGURwh3HONqsFbceqPe97AnaK/preview" width="640" height="360"></iframe>
+  <h3>57 - Shopping Form with Custom Events, Delegation and localstorage.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1nYc97L6IE0GIvb3Oq_ha_Mpyc5uVGR8-/preview" width="640" height="360"></iframe>
+  <h3>58 - Building a Gallery Exercise.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1dt0-4Bc6vGGHTbX2QqbOFDuxqqeaoUlY/preview" width="640" height="360"></iframe>
+  <h3>59 - Bulding a Slider .mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1-y5o4_xVvcSrhKY_Svdjow0enzoynpSz/preview" width="640" height="360"></iframe>
+  <h3>60 - The New Keyword.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/131GW3IQ0ftqeIhr4RhmU5QFVyHl8ibzw/preview" width="640" height="360"></iframe>
+</div>
