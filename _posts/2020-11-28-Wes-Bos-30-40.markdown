@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Wes Bos 30-40"
+date:   2020-11-28
+---
+
+<div class="content">
+  <h3>31 - Events - Prevent Default and Form Events.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1bXU6EZ2pkGvVVv05NgSYG4k8nvSdYMIz/preview" width="640" height="360"></iframe>
+  <h3>32 - Events - Accesibility Gotchas and Keyboard Codes.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1kQ6xU4_fLye_pUbIAkysMJ-eTOkI3mf8/preview" width="640" height="360"></iframe>
+  <h3>33 - Etch-a-Sketch.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1xSvuqjXmuUOwKQjJ565PelK3O80RunA5/preview" width="640" height="360"></iframe>
+  <h3>34 - Click Outside Modal.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/160frYTDgLFbDuZ8duNQ848i3XdZiUTZ-/preview" width="640" height="360"></iframe>
+  <h3>35 - Scroll Events and Intersection Observer.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1DnkmQXEOnmjFL4WIEe2vxEQURNEJpyLO/preview" width="640" height="360"></iframe>
+  <h3>36 - Tabs.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1Pqoa0OBPwg3Pie2ReKarcocDaLeblUaJ/preview" width="640" height="360"></iframe>
+  <h3>37 - BEDMAS.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1Kyu4ZZqVLI-C3h6HMM_G2gkGEf2LQDan/preview" width="640" height="360"></iframe>
+  <h3>38 - Flow Control - If Statements, Function Returns, Truthy, Falsy.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1so8nH2REHlRjRFjHk3K1hE3H7z_RDkZe/preview" width="640" height="360"></iframe>
+  <h3>39 - Coercion, Ternaries and Conditional Abuse.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1NF9x_i9Noi5cr_fRWCR1Bff75_8IJeTk/preview" width="640" height="360"></iframe>
+  <h3>40 - Case Switch and Animating a Turtle with CSS Variables.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1NSSF7zypSFO899BzchZMV0D5BYUuPYeu/preview" width="640" height="360"></iframe>
+</div>
