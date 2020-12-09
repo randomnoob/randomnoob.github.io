@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Wes Bos 20-30"
+date:   2020-11-29
+---
+
+<div class="content">
+  <h3>21 - The DOM - Selecting Elements.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1DA4jZSiPK4V-7IC3HqFuUo4cQCC3eip7/preview" width="640" height="360"></iframe>
+  <h3>22 - The DOM - Element Properties and Methods.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1TZjQTG2G2K-Q6dj1jSZeyU4esHu0yfcO/preview" width="640" height="360"></iframe>
+  <h3>23 - The DOM - Working with Classes.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/14wphc1rGTMb0doaaDd_Puzn4VN1kgFDZ/preview" width="640" height="360"></iframe>
+  <h3>24 - The DOM - Build in and Custom Data Attributes.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1Pp-2geIfHcgVxEpv3sKV0Xz2VnvN1iKe/preview" width="640" height="360"></iframe>
+  <h3>25 - The DOM - Creating HTML.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/122ftecOriu_lCEvkDr_MkGfyEaqQgtGG/preview" width="640" height="360"></iframe>
+  <h3>26 - The DOM - HTML from Strings and XSS.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1q3mmoj1nTCZ_cP1fZE0RIiUbB5e9lBsy/preview" width="640" height="360"></iframe>
+  <h3>27 - The DOM - Traversing and Removing Nodes.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1E0pn-RYgM5l7j77k6Sq9IwSsNHMmnu7z/preview" width="640" height="360"></iframe>
+  <h3>28 - The DOM - CARDIO.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1E-c_VEjom0EKr_lW6pB89MKcEohLvFDp/preview" width="640" height="360"></iframe>
+  <h3>29 - Events - Event Listener.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1UDRb4265ARg1f6VuViZs7l7To0z5b7jz/preview" width="640" height="360"></iframe>
+  <h3>30 - Events - targets, bubbling, propagation and capture.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1rSQmSL_FgifF3JfS8YkP8z1YaaHSwUjW/preview" width="640" height="360"></iframe>
+</div>
