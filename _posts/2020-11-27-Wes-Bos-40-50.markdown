@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Wes Bos 40-50"
+date:   2020-11-27
+---
+
+<div class="content">
+  <h3>41 - Intervals and Timers.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/10mpGs-Vxcmb_pabOfgfA_ajdCrH8xd4s/preview" width="640" height="360"></iframe>
+  <h3>42 - Objects.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1FpF5TO-HiToU24Qi03zFgHglSSdHZuw9/preview" width="640" height="360"></iframe>
+  <h3>43 - Object Reference vs Values .mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1rhdnYLhoOAh2uomVl8mms4G-AVjsNefJ/preview" width="640" height="360"></iframe>
+  <h3>44 - Maps.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1ws_zwyuZ8h6Ym2v7fyAqgOmox0Vu_Jen/preview" width="640" height="360"></iframe>
+  <h3>45 - Arrays.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/18cEUxIHN3r3KZq91L6DAyo0aNG6masOs/preview" width="640" height="360"></iframe>
+  <h3>46 - Array Cardio - Static Methods.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1M32IlTo3kwxAfAGawv_5Pdi3fUha1x3S/preview" width="640" height="360"></iframe>
+  <h3>47 - Array Cardio - Instance Methods.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1EdCbJM-kD3XfeWUYWpaROso5h9_DLhj_/preview" width="640" height="360"></iframe>
+  <h3>48 - Array Cardio - Callback Methods and Function Generation.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1TgEozrnuxufkYoAh0k2rb0uApZTLpB91/preview" width="640" height="360"></iframe>
+  <h3>49 - Looping and Iterating - Array .forEach.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1f3a_ziXzWixdECN-I3v_VWa-SXkKndbA/preview" width="640" height="360"></iframe>
+  <h3>50 - Looping and Iterating - Mapping.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1oSg27KSN42m199-ix4jJTzVQlOdXA_Is/preview" width="640" height="360"></iframe>
+</div>
