@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Wes Bos 70-80"
+date:   2020-11-24
+---
+
+<div class="content">
+
+  <h3>71 - Async Await Error Handling.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1h0AOHdlVYv2FT3ZVXtJvnhR-GvQEqGf3/preview" width="640" height="360"></iframe>
+  <h3>72 - Async Await Prompt UI.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1ZQGcK8PTfxqiUP4Ijs3RCWpERE0m-Gev/preview" width="640" height="360"></iframe>
+  <h3>73 - Async Typer UI - two ways.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1SwKVMtf65d622j9JL1ebTfYHw9NOab9O/preview" width="640" height="360"></iframe>
+  <h3>74 - Ajax and APIs.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1UNvSzOLu-Nz_0PjFP6aCEdN3BbuEjJQq/preview" width="640" height="360"></iframe>
+  <h3>75 - CORS and Recipes.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1waQkRJkmAAW24c5Ph-Wg4Uzy86kBONyk/preview" width="640" height="360"></iframe>
+  <h3>76 - Dad Jokes.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1BtWZnyCeuPx95DFlyOcA1W1gmEYuj515/preview" width="640" height="360"></iframe>
+  <h3>77 - Currency Converter.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1wpTlv_rjJzXYWbveol7Uk7oKFn_JOQiD/preview" width="640" height="360"></iframe>
+  <h3>78 - Modules.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1oLLsICBYiuZT1RZEVqedm7X8edXODC96/preview" width="640" height="360"></iframe>
+  <h3>79 - Currency Modules Refactor.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/1ENV4Rj1l_6_pkmfmTaxpLWEEz4mmpeIn/preview" width="640" height="360"></iframe>
+  <h3>80 - Dad Jokes Modules Refactor.mp4</h3>
+  <iframe src="https://drive.google.com/file/d/14lWmYzWRVC6_ZkLmXa-PbC-_QFVfS49v/preview" width="640" height="360"></iframe>
+  
+</div>
